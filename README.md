@@ -2,9 +2,6 @@
 My first repository
 
 # Bleach
-
-![Bleach Logo](bleach_logo.jpg)
-
 ## Overview
 "Bleach" is a popular Japanese anime and manga series created by Tite Kubo. It falls under the genres of action, adventure, and supernatural. The series was serialized in Shueisha's Weekly Shōnen Jump magazine from 2001 to 2016 and has since become a cultural phenomenon both in Japan and internationally.
 
