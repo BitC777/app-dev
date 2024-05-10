@@ -27,8 +27,3 @@ If you're a fan of "Bleach," consider joining the vibrant community of enthusias
 - [Official "Bleach" Website](https://www.j-bleach.com/)
 - [Bleach Wiki](https://bleach.fandom.com/wiki/Bleach_Wiki)
 
-## License
-This README file is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-## Acknowledgements
-Special thanks to Tite Kubo for creating such an incredible series, and to all the fans who have supported "Bleach" over the years.
